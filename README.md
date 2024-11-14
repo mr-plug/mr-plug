@@ -1,4 +1,4 @@
-# Hello, I'm [mr-plug]! 👋
+# Hello, I'm Plug! 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-plug&show_icons=true&theme=radical)
 
